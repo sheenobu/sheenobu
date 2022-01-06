@@ -29,16 +29,14 @@ software developer/system administrator and hobbyist .
   - nixos config: <a href="https://hg.sr.ht/~sheenobu/config/">hg.sr.ht/~sheenobu/config</a> .
   - m0 hobby OS: <a href="https://hg.sr.ht/~sheenobu/m0">hg.sr.ht/~sheenobu/m0</a> .
   - (old) nixos config: <a href="https://github.com/sheenobu/nixos">github.com/sheenobu/nixos</a> .
-  - nixos-hardware: <a href="https://github.com/sheenobu/nixos-hardware">sheenobu/nixos-hardware</a> .
-
-## when
-
-- last update 2021-05-20 .
 
 ## where
 
-- sf/bay area
-- atlanta
+- georgia, usa
+
+## when
+
+- last update 2022-01-06 .
 
 ## why
 
