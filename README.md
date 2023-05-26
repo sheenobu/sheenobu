@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## who 
 
-software developer/system administrator and hobbyist . 
+software developer/system administrator and hobbyist .
 
 ## what
 
@@ -30,16 +30,12 @@ software developer/system administrator and hobbyist .
   - m0 hobby OS: <a href="https://hg.sr.ht/~sheenobu/m0">hg.sr.ht/~sheenobu/m0</a> .
   - (old) nixos config: <a href="https://github.com/sheenobu/nixos">github.com/sheenobu/nixos</a> .
 
-## where
-
-- georgia, usa
-
 ## when
 
-- last update 2022-01-06 .
+- last update 2023-05-26 .
 
 ## why
 
-im da joker babyyyy 
+i fucking warned you dude. I told you bro; A Critical Analysis of Capitalist Production By Karl Marx.
 
 https://www.youtube.com/watch?v=DGB_fOz_L1Y
